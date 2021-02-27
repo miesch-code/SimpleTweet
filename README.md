@@ -47,6 +47,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 Character counting feature
+Updating versioning control
 
 ---
 
